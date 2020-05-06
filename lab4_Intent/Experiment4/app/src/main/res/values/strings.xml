@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Experiment4</string>
+    <string name="edit_url_hint">请输入您要访问的URL</string>
+    <string name="btn_browse">浏览该网页</string>
+</resources>
